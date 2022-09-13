@@ -1,2 +1,8 @@
 kyleknobloch-ca-website.iml
 .idea/
+*.gem
+.bundle
+.jekyll-cache
+.sass-cache
+_site
+_post_drafts/

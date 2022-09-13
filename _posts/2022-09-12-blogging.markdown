@@ -1,0 +1,7 @@
+---
+title: Blogging
+layout: post
+date: '2022-09-11 10:06:58 -0400'
+---
+
+I decided to updated my website to a Jekyll template. I'll be doing more work as I get to it! 
