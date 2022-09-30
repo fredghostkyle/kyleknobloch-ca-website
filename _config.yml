@@ -37,7 +37,6 @@ minima:
   social_links:
     github:  kylek1782
     linkedin: kylejknobloch
-    discord_join_code: WaxFQChw
 
 show_excerpts: true
 #paginate: 5
@@ -45,6 +44,9 @@ show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-linkpreview
+#  - preview_tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

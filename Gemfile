@@ -18,6 +18,11 @@ gem "github-pages", "~>	227", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+
+  # Extras
+  #gem "jekyll-paginate"
+  gem 'jekyll-sitemap'
+  gem "jekyll-linkpreview"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -36,7 +41,12 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Jekyll Admin
 gem 'jekyll-admin', group: :jekyll_plugins
+
 # Remote Jekyll Themes
 gem "jekyll-remote-theme"
 
-gem "jekyll-paginate"
+# Extras that are needed for link preview sometimes
+gem "nokogiri", "~> 1.13"
+gem "open-uri", "~> 0.2.0"
+gem "ruby-readability", "~> 0.7.0"
+gem "digest", "~> 3.1"
