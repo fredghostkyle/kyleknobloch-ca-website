@@ -6,7 +6,9 @@ layout: page
 <br>
 
 - 👀 I’m interested in Computer Science and how computers communicate with each outher!
-- 🏫 I graduated with a Batchelor of Computer Science Honors, Network Computing Stream with a Minor in American Sign Language @ Carleton University, Ottawa Canada
-- ‍💼 I currently am a Jr. Linux Sysadmin working on networking, application deployments, Docker and more!
+- 🏫 I graduated with a Batchelor of Computer Science Honors, Network Computing Stream with a Minor in American Sign Language @ Carleton University, Ottawa, Canada
+- ‍💼 I am currently a Jr. Linux Sysadmin working on network design, automating software deployments with Puppet, Docker deployments, and more!
 
 📫 [me@kyleknobloch.ca](mailto:me@kyleknobloch.ca)
+
+💬 [LinkedIn](https://www.linkedin.com/in/kylejknobloch/) 
