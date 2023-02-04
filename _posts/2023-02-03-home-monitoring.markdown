@@ -18,6 +18,6 @@ In the future, I think I would like to expand on the Static Status project and b
 
 You can view my implementation of the Information section here: [KyleK1782/static_status: b29d222](https://github.com/KyleK1782/static_status/commit/b29d222574a0a3fe76e5a6e2530f54df0e8b2bdf) 
 
-![A screen shot of the static_status page that inlcudes a new Operational section that displays the system uptime.](https://raw.githubusercontent.com/KyleK1782/kyleknobloch-ca-website/home-monitoring/assets/static-status-kylek1782-operational.png)
+![A screen shot of the static_status page that inlcudes a new Operational section that displays the system uptime.](../assets/static-status-kylek1782-operational.png?raw=true)
 
 Unrelated to this, Bell, the largest ISP in Canada doesn't support IPv6 for residential customers. [@BellNoIPv6](https://twitter.com/bellnoipv6)
