@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "jekyll",
+        "command": "${workspaceFolder}/.vscode/serve.sh",
+        "type": "shell"
+      }
+    ]
+  }

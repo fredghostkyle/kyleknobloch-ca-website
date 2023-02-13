@@ -62,6 +62,8 @@ exclude:
   - .git/
   - .sass-cache/
   - .jekyll-cache/
+  - .vscode/
+  - .DS_Store
   - gemfiles/
   - Gemfile
   - Gemfile.lock
@@ -72,3 +74,8 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:title

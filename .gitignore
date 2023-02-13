@@ -6,3 +6,4 @@ kyleknobloch-ca-website.iml
 .sass-cache
 _site
 _post_drafts/
+.DS_Store
