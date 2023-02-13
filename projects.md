@@ -10,7 +10,8 @@ layout: default
         width: 0%;
         max-width:100%;
         white-space:nowrap; 
-        margin-bottom: 5px;
+        margin-bottom: 5px;       
+        overflow-x: visible;
     }
     table, tbody, tr, td {
         border: none !important;
@@ -24,15 +25,6 @@ layout: default
         margin-bottom: 0px !important;
     }
 </style>
-
-<!-- {% for project in site.projects %}
-  <h2>
-    <a href="{{ project.url }}">
-      {{ project.title }}
-      </a>
-  </h2>
-  <p>{{ project.description }}</p>
-{% endfor %} -->
 
   {%- if site.projects.size > 0 -%}
     {%- if page.list_title -%}
