@@ -7,3 +7,4 @@ kyleknobloch-ca-website.iml
 _site
 _post_drafts/
 .DS_Store
+.vscode/
