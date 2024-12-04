@@ -46,7 +46,7 @@ gem 'jekyll-admin', group: :jekyll_plugins
 gem "jekyll-remote-theme"
 
 # Extras that are needed for link preview sometimes
-gem "nokogiri", "~> 1.13"
+gem "nokogiri", "~> 1.14"
 gem "open-uri", "~> 0.2.0"
 gem "ruby-readability", "~> 0.7.0"
 gem "digest", "~> 3.1"
